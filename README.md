@@ -21,6 +21,10 @@ Para publicar la malla en línea:
 
 1. Ve a la pestaña **Settings** del repositorio en GitHub.
 2. Selecciona **Pages** en el menú lateral.
+3. En **Source**, elige la rama `main` y la carpeta `/ (ro
+
+1. Ve a la pestaña **Settings** del repositorio en GitHub.
+2. Selecciona **Pages** en el menú lateral.
 3. En **Source**, elige la rama `main` y la carpeta `/ (root)`.
 4. Guarda los cambios.
 5. Después de unos segundos, tu sitio estará disponible en la URL indicada (algo como `https://tu-usuario.github.io/nombre-del-repositorio/`).
